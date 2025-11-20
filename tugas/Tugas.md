@@ -9,5 +9,5 @@
 3. **Tampilan Admin Panel**  
    ![C](admin_p.png)
 
-4. **Tampilan User Generator Key**  
+4. **Tampilan User Key Generator**  
    ![D](user.png)
